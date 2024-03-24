@@ -1,4 +1,0 @@
-I've created a interpreter of instruction that works for a circuit that is in the correct order
-However, compared to example output, the user output is not ordered by dependency, so we need to sort it before using our program
-To do so we'll create a dependency map that has instruction pointing to what it needs,
-some instruction need nothing using this we'll give an index to each operation depending on how far in the tree they are.
