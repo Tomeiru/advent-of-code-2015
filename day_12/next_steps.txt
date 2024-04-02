@@ -1,6 +1,0 @@
-This pushes tests to see how the value type switch works in order to implement a (really basic) JSON Parser
-
-Next step is to actually build the program that parses to fill my object type
-Then a function that go through this object type and find all the numbers by recursively go through all the objects
-
-(I'm conscious I could just iterate the input and find all the numbers, it is less fun IMO)
