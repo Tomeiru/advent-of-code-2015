@@ -1,0 +1,4 @@
+On my way to complete with a bruteforce solution again, I'm not sure if it is possible thought
+
+Actually constructing a function that builds the next generations of ingredient possibility in order
+I think the program is easily solvable with Linear Programming, I just want to solve it my way before looking at ways I don't know yet.
