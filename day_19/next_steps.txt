@@ -1,0 +1,4 @@
+Completed part 1 of AOC, and in theory part 2 as well.
+However, part 2 is unoptimized so it will give the results after a really long time.
+I prefer to find optimizations on another day, instead of bruteforcing it and waiting for hours.
+Next step: Think and find ways to optimize part 2
